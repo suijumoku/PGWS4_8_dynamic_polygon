@@ -2,9 +2,9 @@
 雷を使ってみよう
 
 ## 結果画像
-![結果画像1](result1.png)
+![結果画像1](myresult1.png)
 
-![結果画像2](result2.gif)
+![結果画像2](myresult2.gif)
 
 ## 自分なりにかっこいいシーン
 ![結果画像](result.gif)
